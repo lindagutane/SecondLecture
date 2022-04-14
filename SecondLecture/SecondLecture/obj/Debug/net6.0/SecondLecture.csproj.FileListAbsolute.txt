@@ -1,0 +1,15 @@
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\bin\Debug\net6.0\SecondLecture.exe
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\bin\Debug\net6.0\SecondLecture.deps.json
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\bin\Debug\net6.0\SecondLecture.runtimeconfig.json
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\bin\Debug\net6.0\SecondLecture.dll
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\bin\Debug\net6.0\SecondLecture.pdb
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.csproj.AssemblyReference.cache
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.AssemblyInfoInputs.cache
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.AssemblyInfo.cs
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.csproj.CoreCompileInputs.cache
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.dll
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\refint\SecondLecture.dll
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.pdb
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\SecondLecture.genruntimeconfig.cache
+C:\Users\37125\Desktop\Lekcijas\2. lekcija\SecondLecture\SecondLecture\obj\Debug\net6.0\ref\SecondLecture.dll
